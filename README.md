@@ -7,8 +7,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/autthawigorn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="autthawigorn" height="15" width="20" /></a>
 <a href="https://fb.com/autthawigorn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="autthawigorn" height="15" width="20" /></a>
-<a href="https://dribbble.com/cannedcat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="cannedcat" height="15" width="20" /></a>
 <a href="https://www.behance.net/autthawigorn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="autthawigorn" height="15" width="20" /></a>
+<a href="https://dribbble.com/cannedcat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="cannedcat" height="15" width="20" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
