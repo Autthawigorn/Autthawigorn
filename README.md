@@ -1,5 +1,5 @@
 <h1 align="left">Canned Cat</h1>
-<body align="left">I'm an experienced UX/UI designer renowned for crafting intuitive app interfaces. Currently immersed in studying iOS app development with Swift and soon, Flutter. Aspiring to evolve into a proficient software developer, I bring a unique blend of design expertise and a growing commitment to mastering using Firebase, SwiftData and Realm.</body>
+<body align="left">Currently focused on iOS development, specializing in Swift and SwiftUI. I am deeply committed to continuous learning and personal growth, always striving to stay updated with the latest technologies and trends. Looking ahead, I am also eager to explore cross-platform development.</body>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=autthawigorn&label=Profile%20views&color=0e75b6&style=flat" alt="autthawigorn" /> </p>
 
