@@ -16,8 +16,5 @@
 <!-- GitHub Stats Alternative -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=autthawigorn&theme=default" />
 
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=autthawigorn" />
-
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=autthawigorn&theme=github" />
