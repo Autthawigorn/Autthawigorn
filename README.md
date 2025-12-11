@@ -13,6 +13,11 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=autthawigorn&show_icons=true&locale=en&layout=compact" alt="autthawigorn" /></p>
+<!-- GitHub Stats Alternative -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=autthawigorn&theme=default" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=autthawigorn&show_icons=true&locale=en" alt="autthawigorn" /></p>
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=autthawigorn" />
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=autthawigorn&theme=github" />
