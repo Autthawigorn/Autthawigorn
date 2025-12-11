@@ -12,6 +12,19 @@
 </p>
 
 
+<p>
+  <img align="left" 
+       src="https://github-readme-stats-six-seven.vercel.app/api/top-langs?username=autthawigorn&show_icons=true&locale=en&layout=compact&langs_count=8&theme=default" 
+       alt="autthawigorn" 
+       height="200px" />
+</p>
 
-<!-- แสดง Languages ที่ใช้ -->
+<p>&nbsp;
+  <img align="center" 
+       src="https://github-readme-stats-six-seven.vercel.app/api?username=autthawigorn&show_icons=true&locale=en&theme=default" 
+       alt="autthawigorn" 
+       height="200px" />
+</p>
+<!-- แสดง Languages ที่ใช้
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=autthawigorn&theme=default" />
+ -->
